@@ -1,91 +1,130 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lukas Lehmanns CV
+last-updated: 2024-04-25
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lukas Lehmann
 
+Auguste-Viktoria-Str. 6a | 14193 Berlin | 0160 972 43 774 |
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="lukasylehmann@pm.me">lukasylehmann@pm.me</a>
 </div>
 
+## UX- und Webdesigner
 
-## Currently
+- Schwerpunkt auf barrierefreie digitale Lösungen und inklusives Design für neurodivergente Nutzer.
+- Umfangreiche Erfahrung in der Behindertenarbeit, im Webdesign und in der Verlagsherstellung.
+- Leidenschaft für benutzerfreundliche und innovative Konzepte.
 
-Standing on the shoulders of giants
+### Berufliche Erfahrungen
 
-### Specialized in
+`04/2024 - heute`
+**UX-/UI-Design | Barrierefreiheit | Design-Systeme** | Co-Working | Berlin
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Nutzerfreundliches Design barrierefreier digitaler Produkte
+- Responsive UI-Gestaltung mit Figma, Wireframes, Prototypen
+- Aufbau und Pflege einheitlicher Design-Systeme
+- Präsentation von Designkonzepten, Kundenkommunikation
 
+`07/2023 - 03/2024`
+**Weiterbildung UX/UI-Design, Scrum Master (PSM-I)** | cimdata Bildungsakademie GmbH | Berlin
 
-### Research interests
+- Gestaltungsprinzipien, Farben, Formen, Typografie, Animation, Adobe XD, Figma, Sketch
+- Usability, User Experience, Nutzertests, Design Thinking, nutzerzentrierte Produkte/Services
+- Markenidentität, Markensprache, emotionale Nutzererfahrung, Chatbots
+- Agiles Projektmanagement, Scrum
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`11/2020 - 06/2023`
+**Web- und Kommunikationsstrategien, Informationsmanagement** | Co-Working | Berlin
 
+- Entwicklung nutzerzentrierter Webseiten und Kommunikationsstrategien
+- Gestaltung, Corporate Identity und Design
+- Kundenkommunikation und Präsentation von Projektergebnissen
+- Nutzung von KI- und Wissensmanagement-Tools (ChatGPT/Obsidian, GitHub)
+- Optimierung von Informationsarchitekturen (Mindmapping/Zettelkasten)
 
-## Education
+`10/2021 - 07/2022`
+**Weiterbildung Content-Marketing** | WBS Training AG | Berlin
 
-`1654-1660`
-__The King's School, Grantham.__
+- Digitale Kommunikation und Conversion-Optimierung
+- Online-Recht und Datenschutz
+- Projektmanagement, Problemlösung und Teamarbeit
+- Erweiterte Kenntnisse in HTML, CSS und Content-Verwaltung (WordPress, Typo3)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`11/2018 - 10/2020`
+**Production Editor Books** | Walter de Gruyter GmbH | Berlin
 
-- Sizar
+- Buchprojektsteuerung von Manuskript bis Druck
+- Qualitätssicherung, Metadatenverwaltung und Archivierung
+- Betreuung von Autoren, Herausgebern und Dienstleistern
+- Nutzung von Projektmanagement-Tools (z. B. Jira)
 
-`1667 - death`
-__Trinity College, Cambridge__
+`12/2016 - 10/2018`
+**Rückkehr nach Deutschland, Weiterbildung Projektmanagement** | WBS Training AG, autodidaktisch | Heilbad Heiligenstadt
 
-- Fellow
+- Projektmanagement-Methoden
+- Design Thinking-Werkzeuge (z. B. Brainstorming, 5-Why-Methode, Project-Canvas)
+- Projektmetriken, Risikoanalyse, Entscheidungsmatrizen
 
+`11/2014 - 11/2016`
+**Mitarbeiter Full Service Management** | Innodata Inc. | Jerusalem (Israel)
 
+- Steuerung von Zeitschriftenprojekten (Manuskript bis Druck)
+- Koordination von Satz, Copyediting und Datenkonvertierungen
+- Qualitätssicherung, Datenverwaltung, Rechnungswesen
 
-## Awards
+`11/2014 - 10/2015`
+**Webmaster (Teilzeit)** | Leo Baeck Institute | Jerusalem (Israel)
 
-`2012`
-President, *Royal Society*, London, UK
+- Umstellung der Webseite (neues CMS, Dienstleisterwechsel, Webhosting)
+- Optimierung der Informationsarchitektur (Mindmapping)/WordPress-Einrichtung
+- Einarbeitung der Mitarbeiter in WordPress
 
-Associate, *French Academy of Science*, Paris, France
+`03/2014 - 06/2015`
+**Archivmitarbeiter** | Central Zionist Archives | Center of Jewish Studies | Jerusalem (Israel)
 
+`09/2011 - 11/2014`
+**Pflegekraft** | Schekel | Jerusalem (Israel)
 
+- Betreuung von Menschen mit Behinderungen / einfühlsame Kommunikation
 
-## Publications
+`05/2006 - 02/2011`
+**Webmaster** | Hochschule für jüdische Studien | Heidelberg
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Content-Pflege: Einbindung und Gestaltung von Webseiteninhalten (HTML, CSS)
 
-### Journals
+`08/2003 - 04/2006`
+**Freiwilligendienst, Behindertenpflege** | Saint Vincent Ein Kerem | Jerusalem (Israel)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Ausbildung
 
-`1669`
-Lectiones opticæ.
+`10/2005 - 08/2011`
+**Abschluss Bachelor of Arts Jüdische Studien, Geschichte** | Hochschule für Jüdische Studien | Heidelberg
 
-etc. etc. etc.
+### Zusatzqualifikationen
 
-### Patents
+`07/2023 - 03/2024`
+**UX/UI Design, Professional Scrum Master I** | WBS Training AG | Berlin
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`10/2021 - 07/2022`
+**Certified Content Marketing Manager** | WBS Training AG | Berlin
 
+`09/2017 - 11/2017`
+**Projektmanagement** | WBS Training AG
 
-## Occupation
+### IT-Kenntnisse
 
-`1600`
-__Royal Mint__, London
+|                             |  |
+| --------------------------------------- | --------- |
+| Figma, Sketch, Adobe XD                                | 🟢⚪⚪ ⚪⚪   |
+| HTML5, CSS4                             | 🟢🟢🟢🟢⚪ |
+| WordPress, Typo3                        | 🟢🟢🟢🟢⚪ |
 
-- Warden
-- Minted coins
+### Fremdsprachen
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+|   |  |
+| --------- | --------- |
+| Englisch  | 🟢🟢🟢🟢⚪ |
+| Hebräisch | 🟢🟢🟢⚪⚪  |
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Berlin, 30. April 2024
