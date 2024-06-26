@@ -10,6 +10,7 @@ date-modified: 2023-04-07
 
 # Kompetenzen
 
+### Gesamt
 
 ```dataview 
 table WITHOUT ID aliases AS Kompetenz, Erfahrung AS "Erfahrung in Jahren"
