@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Lukas Lehmanns CV
-last-updated: 2024-04-25
+date-modified: 2024-04-25
 ---
 # Lukas Lehmann
 
